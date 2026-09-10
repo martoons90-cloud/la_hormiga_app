@@ -1,0 +1,10 @@
+{
+  "name": "La Hormiga - Gestión de Flota y Maquinaria",
+  "description": "Sistema integral de gestión de flota, parque de maquinaria pesada, nómina de empleados y control de vales de combustible de La Hormiga.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
